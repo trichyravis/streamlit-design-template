@@ -1,0 +1,17 @@
+# The Mountain Path - Streamlit Design Template
+# Required Python packages
+
+# Core Streamlit
+streamlit>=1.28.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: Add these if your specific app needs them
+# scipy>=1.11.0
+# yfinance>=0.2.0
+# arch>=5.0.0
